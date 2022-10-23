@@ -2,10 +2,11 @@
 
 # Instructions
 
-The tip calculator can split tips between different people, with any given percentage from 10, 12 and 15 
+The tip calculator can split bills between different people in an outing, with any given percentage of tip too be given if necessary
 
 The results will be formatted to 2 decimal places after each calculation
 
+Below you will see an example of the program 
 
 # Example Input
 
