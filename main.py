@@ -20,3 +20,5 @@ print(f"Each person should pay: ${final_amount}")
 
 #Coded with ❤️ by Vector 👍
 
+
+
